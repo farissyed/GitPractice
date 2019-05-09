@@ -1,4 +1,4 @@
-#Average
+# Average
 
 This project is an issue-free project designed to average two numbers.  
 
